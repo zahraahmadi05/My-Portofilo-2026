@@ -1,0 +1,462 @@
+.hero {
+  font-family: "Anta", sans-serif;
+  background: #500000;
+  color: #ffdfc4;
+  border-radius: 15px;
+  padding: 20px 50px;
+  width: 500px;
+  height: 170px;
+  line-height: 1.5;
+}
+
+.about-me {
+  font-family: "Anta", sans-serif;
+  font-size: 2.9vh;
+  background: #500000;
+  color: #ffffffff;
+  padding: 10px 20px;
+  width: 600px;
+  height: 170px;
+  border-radius: 20px;
+  position:relative;
+  left:700px;
+  top:40px;
+}
+
+.skills {
+  font-family: "Anta", sans-serif;
+  background: #500000;
+  color: #ffe3d0;
+  padding: 10px 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  left: 660px;
+}
+
+.programming {
+  font-family: "Anta", sans-serif;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 10px 10px;
+  width: 180px;
+  height: 70px;
+  border-radius: 20px;
+}
+
+.skill1 {
+  font-family: "Anta", sans-serif;
+  font-size: 4vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 10px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.skill2 {
+  font-family: "Anta", sans-serif;
+  font-size: 4vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 10px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  left: 150px;
+  bottom: 145px;
+}
+
+.skill3 {
+  font-family: "Anta", sans-serif;
+  font-size: 4vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 10px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  left: 300px;
+  bottom: 290px;
+}
+
+.Tools-Workflow {
+  font-family: "Anta", sans-serif;
+  font-size: 2.3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 10px 10px;
+  width: 250px;
+  height: 70px;
+  border-radius: 20px;
+  position: relative;
+  left: 700px;
+  bottom: 610px;
+}
+
+.skill4 {
+  font-family: "Anta", sans-serif;
+  font-size: 3.7vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 30px;
+  width: 150px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.skill5 {
+  font-family: "Anta", sans-serif;
+  font-size: 3.7vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 30px;
+  width: 130px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  left: 300px;
+  bottom: 145px;
+}
+
+.design-uiTools {
+  font-family: "Anta", sans-serif;
+  font-size: 2.2vh;
+  background: #500000;
+  color: #ffe0cd;
+  padding: 10px 10px;
+  width: 220px;
+  height: 70px;
+  border-radius: 20px;
+  position: relative;
+  right: 10px;
+  bottom: 400px;
+}
+
+.skill6 {
+  font-family: "Anta", sans-serif;
+  font-size: 4vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 10px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  bottom: 400px;
+}
+
+.soft-skills {
+  font-family: "Anta", sans-serif;
+  font-size: 2.3vh;
+  background: #500000;
+  color: #ffdec9;
+  padding: 10px 10px;
+  width: 250px;
+  height: 70px;
+  border-radius: 20px;
+  position: relative;
+  left: 700px;
+  bottom: 710px;
+}
+
+.skill7 {
+  font-family: "Anta", sans-serif;
+  font-size: 3.6vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 30px;
+  width: 200px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  left: 700px;
+  bottom: 680px;
+}
+
+.skill8 {
+  font-family: "Anta", sans-serif;
+  font-size: 3.6vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 30px;
+  width: 200px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  left: 1020px;
+  bottom: 825px;
+}
+
+.projects {
+  font-family: "Anta", sans-serif;
+  background: #500000;
+  color: #ffe3d0;
+  padding: 10px 10px;
+  width: 150px;
+  height: 100px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  left: 660px;
+  top: 700px;
+}
+
+.one {
+  font-family: "Anta", sans-serif;
+  font-size: 2vh;
+  background: #500000;
+  color: #fff;
+  padding: 10px 10px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  right: 650px;
+  top: 50px;
+}
+
+.project1 {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  left: 200px;
+  bottom: 100px;
+}
+
+.explain1 {
+  font-family: "Anta", sans-serif;
+  font-size: 2.7vh;
+  background: #500000;
+  color: #ffffffff;
+  padding: 10px 10px;
+  width: 350px;
+  height: 70px;
+  border-radius: 20px;
+  position: relative;
+  left: 300px;
+  bottom: 35px;
+}
+
+/* unvisited link */
+a:link {
+  color: #eaf0ad;
+  text-decoration:none;
+}
+/* visited link */
+a:visited {
+  color: #536ef8ff;
+}
+
+/* mouse over link */
+a:hover {
+  color: #e1e2e8;
+}
+
+/* selected link */
+a:active {
+  color: #14a60f;
+}
+
+.project2 {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  right: 439px;
+  top: 100px;
+}
+
+.explain2 {
+  font-family: "Anta", sans-serif;
+  font-size: 2.7vh;
+  background: #500000;
+  color: #ffffffff;
+  padding: 10px 10px;
+  width: 390px;
+  height: 70px;
+  border-radius: 20px;
+  position: relative;
+  left: 300px;
+  bottom: 35px;
+}
+
+.two {
+  font-family: "Anta", sans-serif;
+  font-size: 2vh;
+  background: #500000;
+  color: #fff;
+  padding: 20px 20px;
+  width: 100px;
+  height: 130px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  right: 660px;
+  top: 190px;
+}
+
+.project3 {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  left: 200px;
+  bottom: 150px;
+}
+
+.explain3 {
+  font-family: "Anta", sans-serif;
+  font-size: 2.7vh;
+  background: #500000;
+  color: #ffffffff;
+  padding: 10px 10px;
+  width: 600px;
+  height: 230px;
+  border-radius: 20px;
+  position: relative;
+  top: 50px;
+}
+
+.project4 {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  width: 170px;
+  height: 40px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  top: 180px;
+}
+
+.explain4 {
+  font-family: "Anta", sans-serif;
+  font-size: 2.7vh;
+  background: #500000;
+  color: #ffffffff;
+  padding: 10px 10px;
+  width: 570px;
+  height: 240px;
+  border-radius: 20px;
+  position: relative;
+  top: 50px;
+}
+
+.project5 {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  width: 170px;
+  height: 40px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  top: 520px;
+}
+
+.explain5 {
+  font-family: "Anta", sans-serif;
+  font-size: 2.7vh;
+  background: #500000;
+  color: #ffffffff;
+  padding: 10px 10px;
+  width: 500px;
+  height: 230px;
+  border-radius: 20px;
+  position: relative;
+  top: 50px;
+}
+
+.github {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  border-radius:20px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  position: relative;
+  top: 2400px;
+  left: 360px;
+}
+
+.linkedin {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  border-radius:20px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  position: relative;
+  top: 2353px;
+  left: 630px;
+}
+
+.instagram {
+  font-family: "Anta", sans-serif;
+  font-size: 3vh;
+  background: #500000;
+  color: #ffe9d7;
+  padding: 9px 9px;
+  border-radius:20px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  position: relative;
+  top: 2305px;
+  left: 900px;
+}
+
+footer {
+  font-family: "Anta", sans-serif;
+  font-size: 3.7vh;
+  color: #2c0000ff;
+  text-align: center;
+  position: relative;
+  top: 2350px;
+  height: 30px;
+  border-radius: 10px;
+}
